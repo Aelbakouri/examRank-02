@@ -6,12 +6,13 @@
 /*   By: ael-bako <ael-bako@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/08 18:41:09 by ael-bako          #+#    #+#             */
-/*   Updated: 2022/11/08 19:09:14 by ael-bako         ###   ########.fr       */
+/*   Updated: 2022/11/08 20:35:17 by ael-bako         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <unistd.h>
 #include <stdio.h>
+
 int main (int argc, char **argv)
 {
 	int i = 0;

@@ -6,11 +6,12 @@
 /*   By: ael-bako <ael-bako@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/08 19:37:45 by ael-bako          #+#    #+#             */
-/*   Updated: 2022/11/08 19:40:46 by ael-bako         ###   ########.fr       */
+/*   Updated: 2022/11/08 20:35:27 by ael-bako         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <unistd.h>
+
 void	ft_putstr(char *str)
 {
 	while(*str)
